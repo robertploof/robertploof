@@ -16,5 +16,17 @@ The most helpful Application Note I have ever read, which was also what the pers
 EVERYONE who works with or interested in (Operational Amplifier technology) ✨OP-AMP✨ or even just electronics in general, should definately...
 -
 *** Read this App-Note: "An IC Amplifier User’s Guide to Decoupling, Grounding, and Making Things Go Right for a Change"
-✨[analog-adi-webinarmarch121741722241847.pdf](https://github.com/user-attachments/files/19241814/analog-adi-webinarmarch121741722241847.pdf)✨
-
+    ✨[AN-202.pdf](https://github.com/user-attachments/files/19242258/AN-202.pdf)✨
+-
+-
+*** New Webinar regarding: High Dynamic Range, Wide-Band Transceivers for Phased Array, EW, and Instrumentation from [ADI...Analog Devices]([Analog Devices](https://www.analog.com/) ***
+    ✨[analog-adi-webinarmarch121741722241847.pdf](https://github.com/user-attachments/files/19241814/analog-adi-webinarmarch121741722241847.pdf)✨
+-
+-
+-
+LITERATURE & LINKS 
+[https://ez.analog.com/](https://ez.analog.com/)
+[https://developer.analog.com/](https://developer.analog.com/)
+-
+-
+-
