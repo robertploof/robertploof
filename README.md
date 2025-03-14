@@ -13,7 +13,7 @@
 <!--- robertploof/robertploof `README.md` --->
 -
 The most helpful Application Note I have ever read, which was also what the person said who I found a link via their website...  They were right!
-EVERYONE who works with or interested in Operation Amplifier's or even just electronics in general, should definately...
+EVERYONE who works with or interested in (Operational Amplifier technology) ✨OP-AMP✨ or even just electronics in general, should definately...
 -
 *** Read this App-Note: "An IC Amplifier User’s Guide to Decoupling, Grounding, and Making Things Go Right for a Change"
 ✨[analog-adi-webinarmarch121741722241847.pdf](https://github.com/user-attachments/files/19241814/analog-adi-webinarmarch121741722241847.pdf)✨
